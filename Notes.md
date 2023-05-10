@@ -1,10 +1,11 @@
-Lecture11
+### Lecture11
 
 
 
 
 
-Lecture10
+### Lecture10
+ Meta-Learning with Implicit Gradients https://arxiv.org/abs/1909.04630 ![image](https://github.com/Deepak-Mewada/DeepMultiTaskandMetaLearning_CS330Fall2022/assets/61898308/f9877b0f-92d9-4a46-9543-98516dfe7fdc)
 
 
 ![image](https://github.com/Deepak-Mewada/DeepMultiTaskandMetaLearning_CS330Fall2022/assets/61898308/52da779b-16fd-4f87-a120-62a33e3a563d)
